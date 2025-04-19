@@ -3,3 +3,5 @@
 **/__pycache__
 .venv/
 release/
+config.bat
+node_modules
